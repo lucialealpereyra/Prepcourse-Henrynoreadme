@@ -1,2 +1,1 @@
-# Prepfullpractica
-Este es un repositorio de prueba modulo 2
+Este proyecto es una prueba de repositorio y clonarlo desde github a la computadora
